@@ -1,0 +1,14 @@
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\bin\Debug\net7.0\PerformingOperations.exe
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\bin\Debug\net7.0\PerformingOperations.deps.json
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\bin\Debug\net7.0\PerformingOperations.runtimeconfig.json
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\bin\Debug\net7.0\PerformingOperations.dll
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\bin\Debug\net7.0\PerformingOperations.pdb
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\PerformingOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\PerformingOperations.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\PerformingOperations.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\PerformingOperations.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\PerformingOperations.dll
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\refint\PerformingOperations.dll
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\PerformingOperations.pdb
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\PerformingOperations.genruntimeconfig.cache
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingFoundationsCSharp\PFCSLesson02HandsOn\PerformingOperations\obj\Debug\net7.0\ref\PerformingOperations.dll
